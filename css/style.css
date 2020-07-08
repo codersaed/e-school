@@ -1,0 +1,96 @@
+
+.header-area {
+    background-color: #f0fff0;
+    height: auto; 
+}
+.nav-img img{
+    width: 30%;
+}
+.nav-img {
+    width: 50%;
+}
+.nav-btn {
+    background-color: #4CAF50;
+    border-radius: 100px;
+    padding: 0px 10px;
+}
+.btn-learn {
+    background-color: #4CAF50;
+    border-radius: 100px;
+    padding: 9px 30px;
+    border: none;
+}
+.markC {
+    color: #4CAF50;
+}
+
+
+
+.box-area {
+    height: auto;
+    overflow: hidden;
+}
+.boxB {
+    padding: 25px 30px;
+    background-color: #fbfff8;
+}
+.boxMark {
+    padding: 25px 30px;
+    box-shadow: 6px 6px 10px gainsboro;
+}
+.boxB img {
+    width: 48%;
+}
+.boxMark img {
+    width: 48%;
+}
+.boxMark h1 {
+    font-size: 18px;
+}
+.boxB h1{
+    font-size: 18px;
+}
+
+
+
+.course-area {
+    
+}
+.cardF img {
+    width: 10%;
+    height: auto;
+}
+.card {
+    padding: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px gainsboro;
+    border-radius: 10px;
+}
+.btn-course {
+    background-color: #4CAF50;
+    border-radius: 100px;
+    padding: 7px 30px;
+    border: none;
+}
+
+
+
+.testimonial-area {
+    margin: 80px 0;
+}
+.imgT img{
+    width: 50%;
+}
+ul li{
+    list-style: none;
+}
+
+.footer-area {
+    background-color: #282531;
+    height: auto;
+    color: #fff;
+    padding: ;
+}
+.copyR {
+    padding-top: 50px;
+}
